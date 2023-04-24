@@ -2,8 +2,11 @@
 Proyecto de Analítica de datos: 
 
 ## Miembros del equipo: 
-- Daniel Góngora García, CC 1006504767, Ingeniería Industrial 
-- Jhon Alexander Longas, CC 1193326786, Ingeniería Industrial
+
+- Daniel Góngora García, CC 1006504767, Ingeniería Industrial  
+
+- Jhon Alexander Longas, CC 1193326786, Ingeniería Industrial 
+
 - Miguel Ángel Sánchez Peñates, CC 1063291423, Ingeniería Industrial 
 
 
