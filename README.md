@@ -1,10 +1,22 @@
-# AI4ENG
-Entregables de la materia Introducción a la IA para las ciencias e ingenierías; UdeA 2023
+# Artificial-Intelligence-Project: Netherlands Accommodation Prices (FCG)
+Proyecto de Analítica de datos: 
 
-Grupo: Jhon Alexander Longas c.c 1193326786
-       Daniel Gongora Garcia c.c 1006504767
-       Miguel Angel Sanchez  c.c 1063291423
+## Miembros del equipo: 
+- Daniel Góngora García, CC 1006504767, Ingeniería Industrial 
+- Jhon Alexander Longas, CC 1193326786, Ingeniería Industrial
+- Miguel Ángel Sánchez Peñates, CC 1063291423, Ingeniería Industrial 
 
-Datos
+
+## Datos
+
+Los datos del proyecto vienen de [La competición Kaggle Netherlands Accommodation Prices (FCG)](https://kaggle.com/competitions/fcg-2022-netherlands-accommodation-prices), y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos
+
+    ! comando 1
+    ! comando 2
+    
+después de haber configurado `.kaggle/kaggle.json` de tal y tal manera.
+
+## Videos
+
 ________________________________________________
 Los datos se obtuvieron de la siguiente competencia de Kaggle: https://www.kaggle.com/competitions/fcg-2022-netherlands-accommodation-prices/overview
