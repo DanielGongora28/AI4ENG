@@ -21,7 +21,7 @@ después de haber configurado `.kaggle/kaggle.json` de tal y tal manera.
 
 ## Videos
  
- (Video Entrega 2)[https://youtu.be/XvbO8Nwn4ts]
+ [Video Entrega 2](https://youtu.be/XvbO8Nwn4ts)
 
 ________________________________________________
 Los datos se obtuvieron de la siguiente competencia de Kaggle: https://www.kaggle.com/competitions/fcg-2022-netherlands-accommodation-prices/overview
