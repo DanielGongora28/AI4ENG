@@ -14,6 +14,7 @@ Proyecto de Analítica de datos:
 ## Videos
  
  [Video Entrega 2](https://youtu.be/XvbO8Nwn4ts)
+ [Video Entrega Final](https://youtu.be/vzVwGN7t1DI)
 
 ________________________________________________
 Los datos se obtuvieron de la siguiente competencia de Kaggle: https://www.kaggle.com/competitions/fcg-2022-netherlands-accommodation-prices/overview
